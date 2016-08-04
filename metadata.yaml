@@ -1,0 +1,29 @@
+_repo: Address-to-the-Inhabitants-of-the-Colonies-established-in-New-South-Wales-And-Norfolk-Island_4052
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Johnson, Richard
+    birthdate: 1755
+    deathdate: 1827
+    gutenberg_agent_id: '1373'
+    url: http://www.gutenberg.org/2009/agents/1373
+    wikipedia: http://en.wikipedia.org/wiki/Reverend_Richard_Johnson
+description: ''
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4052'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sermons -- Australia -- 18th century'
+- !lcsh 'Speeches, addresses, etc.'
+- !lcc 'BV'
+- !lcc 'DU'
+- !lcsh 'Prisoners -- Australia'
+- GITenberg
+title: Address to the Inhabitants of the Colonies, established in New South Wales
+  And Norfolk Island
+url: http://www.gutenberg.org/ebooks/4052
